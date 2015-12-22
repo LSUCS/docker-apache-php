@@ -1,0 +1,11 @@
+# Ignore docker files
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Ignore git files
+.git
+.gitignore
+
+# Ignore build files
+Makefile
